@@ -46,7 +46,15 @@ const prices = [
   ["Trosed", "od 3.500 RSD"],
   ["Dvosed", "od 2.500 RSD"],
   ["Fotelja", "od 1.200 RSD"],
-  ["Auto enterijer", "4.000-8.000 RSD"]
+  ["Ugaona garnitura", "od 4.500 RSD"],
+  ["Dušek za jednu osobu", "od 2.500 RSD"],
+  ["Bračni dušek", "od 4.000 RSD"],
+  ["Stolica bez naslona", "od 400 RSD"],
+  ["Stolica sa naslonom", "od 600 RSD"],
+  ["Tabure", "od 600 RSD"],
+  ["Auto enterijer", "4.000–8.000 RSD"],
+  ["Tepih / staza", "od 300 RSD / m²"],
+  ["Minimalni dolazak", "1.000 RSD"]
 ];
 
 export default function App() {
@@ -129,7 +137,7 @@ export default function App() {
       <section id="proces" className="process-section">
         <div className="process-copy">
           <p>Kako radimo</p>
-          <h2>Temeljno čišćenje bez komplikovanja</h2>
+          <h2>Temeljno čišćenje koje štedi vreme</h2>
           <span>
             Koristimo ekstraktor mašinu koja ubrizgava rastvor za pranje i odmah
             izvlači prljavštinu i višak vlage iz tkanine.
