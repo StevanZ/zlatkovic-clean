@@ -69,6 +69,7 @@ export default function App() {
           <a href="#usluge">Usluge</a>
           <a href="#proces">Proces</a>
           <a href="#kontakt">Kontakt</a>
+          <a href="#cenovnik">Cenovnik</a>
         </nav>
 
         <a className="nav-call" href={phoneHref}>
@@ -153,7 +154,7 @@ export default function App() {
         </ol>
       </section>
 
-      <section id="cene" className="section split">
+      <section id="cenovnik" className="section split">
         <div className="section-heading compact">
           <p>Cenovnik</p>
           <h2>Okvirne cene usluga</h2>
